@@ -1,0 +1,5 @@
+.background {
+    background-image: url(/src/assets/images/bg.png);
+    /* background-color: white; */
+    width: 100%;
+}
